@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sovxcite/MyNodeJsServer/issues"
   },
-  "homepage": "https://github.com/sovxcite/MyNodeJsServer#readme"
+  "homepage": "https://github.com/sovxcite/MyNodeJsServer#readme",
+  "dependencies": {
+    "mongodb": "^2.2.31"
+  }
 }
